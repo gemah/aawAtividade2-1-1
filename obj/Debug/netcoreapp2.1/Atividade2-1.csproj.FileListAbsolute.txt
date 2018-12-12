@@ -1,0 +1,11 @@
+C:\Users\687850\Desktop\Atividade2-1\bin\Debug\netcoreapp2.1\Atividade2-1.deps.json
+C:\Users\687850\Desktop\Atividade2-1\bin\Debug\netcoreapp2.1\Atividade2-1.runtimeconfig.json
+C:\Users\687850\Desktop\Atividade2-1\bin\Debug\netcoreapp2.1\Atividade2-1.runtimeconfig.dev.json
+C:\Users\687850\Desktop\Atividade2-1\bin\Debug\netcoreapp2.1\Atividade2-1.dll
+C:\Users\687850\Desktop\Atividade2-1\bin\Debug\netcoreapp2.1\Atividade2-1.pdb
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.csprojAssemblyReference.cache
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.csproj.CoreCompileInputs.cache
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.AssemblyInfoInputs.cache
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.AssemblyInfo.cs
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.dll
+C:\Users\687850\Desktop\Atividade2-1\obj\Debug\netcoreapp2.1\Atividade2-1.pdb
